@@ -153,3 +153,21 @@ footer a:hover {
 .aboutme p {
   box-shadow: 5px 5px 5px gray;
 }
+.social-icon {
+  font-size: 24px; /* Sets size of the icon */
+  color: #f21111; /* Sets default icon color */
+  margin: 0 10px; /* Adds spacing between icons */
+  text-decoration: none; /* Removes underline */
+}
+
+.social-icon:hover {
+  color: #1da1f2; /* Changes color on hover for Twitter blue */
+}
+button {
+  font-size: 24px; /* Increases font size for both text and icon */
+}
+
+i.fas.fa-search {
+  color: blue; /* Changes icon color to blue */
+  margin-right: 8px; /* Adds spacing between the icon and text */
+}
