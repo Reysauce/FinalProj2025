@@ -171,3 +171,9 @@ i.fas.fa-search {
   color: blue; /* Changes icon color to blue */
   margin-right: 8px; /* Adds spacing between the icon and text */
 }
+.logo {
+  position: fixed;
+  height: auto;
+  left: 0;
+  width: 200px;
+}
