@@ -172,8 +172,12 @@ i.fas.fa-search {
   margin-right: 8px; /* Adds spacing between the icon and text */
 }
 .logo {
-  position: fixed;
-  height: auto;
+  height: 23vh;
   left: 0;
-  width: 200px;
+  justify-content: center;
+  margin: 0 auto;
+  align-self: center;
+}
+.logobar {
+  display: flex;
 }
