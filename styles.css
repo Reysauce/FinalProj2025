@@ -175,8 +175,9 @@ i.fas.fa-search {
   height: 23vh;
   left: 0;
   justify-content: center;
-  margin: 0 auto;
+  margin: 0;
   align-self: center;
+  border-radius: 5px;
 }
 .logobar {
   display: flex;
